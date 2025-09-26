@@ -1,4 +1,4 @@
-## Mucho gusto, soy César Ortega estudiante de Ingenieria en Software, proximamente estare trabajando con nuevos repositorios
+## Mucho gusto, soy César Ortega estudiante de Ingenieria en Software, proximamente estaré trabajando con nuevos repositorios
 
 <!--
 **Cesar-DOC/Cesar-DOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
